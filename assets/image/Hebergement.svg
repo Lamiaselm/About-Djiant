@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="400px" height="400px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 52.89 52.89"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#008DD2;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Plan_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2543382694672">
+   <g>
+    <polygon class="fil0" points="52.88,52.89 0,52.89 0,0 52.88,0 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="6.61,11.02 17.63,11.02 17.63,6.61 6.61,6.61 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="6.61,24.24 17.63,24.24 17.63,19.83 6.61,19.83 "/>
+   </g>
+   <g>
+    <polygon class="fil1" points="6.61,37.46 17.63,37.46 17.63,33.05 6.61,33.05 "/>
+   </g>
+   <g>
+    <path class="fil1" d="M30.85 8.81c0,1.22 -0.99,2.21 -2.2,2.21 -1.22,0 -2.21,-0.99 -2.21,-2.21 0,-1.21 0.99,-2.2 2.21,-2.2 1.21,0 2.2,0.99 2.2,2.2z"/>
+   </g>
+   <g>
+    <path class="fil1" d="M37.46 8.81c0,1.22 -0.99,2.21 -2.2,2.21 -1.22,0 -2.21,-0.99 -2.21,-2.21 0,-1.21 0.99,-2.2 2.21,-2.2 1.21,0 2.2,0.99 2.2,2.2z"/>
+   </g>
+   <path class="fil1" d="M22.03 39.66l-17.62 0 0 -8.81 17.62 0 0 -4.41 -17.62 0 0 -8.81 35.25 0 0 4.41 4.41 0 0 -17.63c0,-2.43 -1.98,-4.41 -4.41,-4.41l-35.25 0c-2.43,0 -4.41,1.98 -4.41,4.41l0 35.25c0,2.43 1.98,4.41 4.41,4.41l17.62 0 0 -4.41zm-17.62 -35.25l0 0 35.25 0 0 8.81 -35.25 0 0 -8.81z"/>
+   <path class="fil1" d="M52.89 41.87l0 -4.41 -2.43 0c-0.29,-1.4 -0.85,-2.71 -1.61,-3.86l1.72 -1.73 -3.11 -3.12 -1.73 1.73c-1.16,-0.76 -2.46,-1.32 -3.86,-1.61l0 -2.43 -4.41 0 0 2.43c-1.4,0.29 -2.71,0.85 -3.86,1.61l-1.73 -1.72 -3.11 3.11 1.72 1.73c-0.76,1.15 -1.32,2.46 -1.61,3.86l-2.43 0 0 4.41 2.43 0c0.29,1.4 0.85,2.71 1.61,3.86l-1.72 1.73 3.12 3.12 1.72 -1.73c1.16,0.76 2.46,1.32 3.86,1.61l0 2.43 4.41 0 0 -2.43c1.41,-0.29 2.71,-0.85 3.86,-1.62l1.73 1.73 3.12 -3.12 -1.73 -1.72c0.76,-1.16 1.32,-2.46 1.61,-3.86l2.43 0zm-13.23 2.2l0 0c-2.43,0 -4.4,-1.97 -4.4,-4.41 0,-2.43 1.97,-4.4 4.4,-4.4 2.44,0 4.41,1.97 4.41,4.4 0,2.44 -1.97,4.41 -4.41,4.41z"/>
+  </g>
+ </g>
+</svg>
