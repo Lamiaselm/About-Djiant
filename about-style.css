@@ -1,5 +1,10 @@
-a.disabled {
-    pointer-events: none;
-    cursor: default;
-    color: #ccc;
-  }
+.link-button{
+  background-color: #fafafa ;
+  padding: 5px 15px 5px 15px;
+  border-radius: 2px !important;
+  border: solid #e6e6e6 1px !important;
+  margin-right: 30px;
+  outline: none;
+  margin-top:0px;
+  height: 34px;
+}
