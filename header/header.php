@@ -29,6 +29,7 @@
 <link href="assets/admin/layout/css/layout.css" rel="stylesheet" type="text/css"/>
 <link href="assets/admin/layout/css/themes/darkblue.css" rel="stylesheet" type="text/css" id="style_color"/>
 <link href="assets/admin/layout/css/custom.css" rel="stylesheet" type="text/css"/>
+<link href="./about-style.css" rel="stylesheet" type="text/css"/>
 <!-- END THEME STYLES -->
 <link rel="icon" type="image/png" href="assets/image/logo-djiant.png" />
       <script type="text/javascript">

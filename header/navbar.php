@@ -1,3 +1,4 @@
+
 <body class="page-header-fixed page-quick-sidebar-over-content page-full-width">
 <!-- BEGIN HEADER -->
 <div class="page-header -i navbar navbar-fixed-top">
@@ -7,7 +8,7 @@
 		<div class="page-logo">
 			<img id="djiant" style="margin-right: 6px; margin-top: 2px" src="assets/image/logo-djiant.svg" width="22px"> 
 
-			 <span  > <img  style="margin-right: 10px;" src="assets/image/IconePage.svg" width="22px">   A props </span> 
+			 <span  > <img  style="margin-right: 10px;" src="assets/image/IconePage.svg" width="22px">   About</span> 
 			 
 			<div class="menu-toggler sidebar-toggler hide">
 			</div>
@@ -48,11 +49,11 @@
 										<h4 style="margin:0px;" >People</h4> </a>
 									</li>
 									<li >
-										<a id="tab_3" data-toggle="tab">
+										<a id="tab_3"style="pointer-events: none;color: #ccc;">
 									<h4 style="margin:0px;" >Jobs</h4>	 </a>
 									</li>
-									<li >
-										<a id="tab_3" data-toggle="tab">
+									<li  >
+										<a id="tab_3" style="pointer-events: none;color: #ccc;">
 									<h4 style="margin:0px;" >Localisation</h4>	 </a>
 									</li>
 								</ul>
