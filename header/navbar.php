@@ -7,7 +7,7 @@
 		<div class="page-logo">
 			<img id="djiant" style="margin-right: 6px; margin-top: 2px" src="assets/image/logo-djiant.svg" width="22px"> 
 
-			 <span  > <img  style="margin-right: 10px;" src="assets/image/IconePage.svg" width="22px">   The platform Djiant  </span> 
+			 <span  > <img  style="margin-right: 10px;" src="assets/image/IconePage.svg" width="22px">   A props </span> 
 			 
 			<div class="menu-toggler sidebar-toggler hide">
 			</div>
@@ -15,7 +15,7 @@
 		<div class="page-logo pull-right" style="width: 129px;">
 			 
 
-			  <span  class="tabbable-line note-header"> <a href="#" class="list-langue active-langue ">EN</a> <a href="#" class="list-langue">FR</a> <a href="#" class="list-langue">ES</a></span> 
+			  <span  class="tabbable-line note-header"> <a href="#" class="list-langue active-langue">EN</a> <a href="#" class="list-langue ">FR</a> <a href="#" class="list-langue">ES</a></span> 
 			 
 			<div class="menu-toggler sidebar-toggler hide">
 			</div>
@@ -23,18 +23,7 @@
 
 		<!-- END LOGO -->
 		<!-- BEGIN RESPONSIVE MENU TOGGLER -->
-<div class="tabbable-line " >
-								<ul class="nav nav-tabs pull-right">
-									<li >
-										<a href="#" >
-										About us </a>
-									</li>
-									<li>
-										<a href="#" >
-										Contact </a>
-									</li>
-								</ul>
-	</div>
+
 		<!-- END RESPONSIVE MENU TOGGLER -->
 		<!-- BEGIN TOP NAVIGATION MENU -->
 
@@ -52,27 +41,19 @@
 								<ul class="nav nav-tabs ">
 									<li class="active ">
 										<a id="tab_1" data-toggle="tab">
-										<h4 style="margin:0px;">Overview</h4> </a>
+										<h4 style="margin:0px;">Company</h4> </a>
 									</li>
 									<li>
 										<a id="tab_2" data-toggle="tab">
-										<h4 style="margin:0px;" >Services</h4> </a>
+										<h4 style="margin:0px;" >People</h4> </a>
 									</li>
 									<li >
 										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Networks</h4>	 </a>
+									<h4 style="margin:0px;" >Jobs</h4>	 </a>
 									</li>
 									<li >
 										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Features</h4>	 </a>
-									</li>
-									<li >
-										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Analytics</h4>	 </a>
-									</li>
-									<li >
-										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Rates & Payments</h4>	 </a>
+									<h4 style="margin:0px;" >Localisation</h4>	 </a>
 									</li>
 								</ul>
 								
