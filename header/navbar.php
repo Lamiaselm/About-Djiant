@@ -15,7 +15,7 @@
 		<div class="page-logo pull-right" style="width: 129px;">
 			 
 
-			  <span  class="tabbable-line note-header"> <a href="#" class="list-langue ">EN</a> <a href="#" class="list-langue active-langue">FR</a> <a href="#" class="list-langue">ES</a></span> 
+			  <span  class="tabbable-line note-header"> <a href="#" class="list-langue active-langue ">EN</a> <a href="#" class="list-langue">FR</a> <a href="#" class="list-langue">ES</a></span> 
 			 
 			<div class="menu-toggler sidebar-toggler hide">
 			</div>

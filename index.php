@@ -130,19 +130,19 @@
               				<div class="row" style="margin-top: 20px;" >
 								
               					<div class="djiant-col-md-3" style=" margin-right:10px;" >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Plus d’attractivité</h4>
-              						<p class="djiant-block">Offrez aux membres de votre communauté des contenus et des services innovants et attractifs.</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >More attractiveness</h4>
+              						<p class="djiant-block">Offer your community members innovative and attractive content and services.</p>
               						
               					</div>
               					
               					<div class="djiant-col-md-3" style=" margin-right:30px;">
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Plus de trafic</h4>
-              						<p class="djiant-block">Faites de votre communauté un point de passage incontournable vers votre secteur ou votre région. Bénéficiez de statistiques avancées et exclusives.</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >More traffic</h4>
+              						<p class="djiant-block">Make your community an essential gateway to your sector or region. Benefit from advanced and exclusive statistics.</p>
               						
               					</div>
               					<div class="djiant-col-md-3" style=" margin-right:30px;" >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Plus de revenus</h4>
-              						<p class="djiant-block">Augmentez vos revenus en percevant 60% des abonnements générés au sein de votre communauté.</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >More revenue</h4>
+              						<p class="djiant-block">Increase your revenues by receiving 60% of the subscriptions generated within your community.</p>
               						
               					</div>
               				</div>
@@ -308,7 +308,7 @@ ssqdqsds
 				<div class="djiant-col-md-3">
 					<div class="contact-us">
                                      <img id="djiant" style="margin-right: 15px;filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(10);" src="assets/image/IconeContact.svg" width="22px"> 
-                                            Contactez-nous
+                                            Contact us
                                    </div>
 				</div>
 						
@@ -445,7 +445,7 @@ ssqdqsds
 <!-- BEGIN FOOTER -->
 <div class="page-footer">
 	<div class="page-footer-inner pull-right">
-		<span  class="tabbable-line "> <a href="#" class="menu-footer" >Mentions légales </a> <a href="#" class="menu-footer" >Politique de conf</a> </span>
+		<span  class="tabbable-line "> <a href="#" class="menu-footer" >Legal Notice  </a> <a href="#" class="menu-footer" >Privacy Policy</a> </span>
 	</div>
 
 	<div class="scroll-to-top">
