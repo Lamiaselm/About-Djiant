@@ -13,19 +13,19 @@
 
 							<div class="row" >
               					<div class="djiant-col-md-4">
-              					<h4 class="djiant-title">DÉCOUVREZ DJIANT</h4>	
+              					<h4 class="djiant-title">DISCOVER DJIANT</h4>	
               					</div>
               				</div>
               				<div class="row">
               					<div class="djiant-col-md-6">
-              						<p class="decouvrez-djiant">DJIANT EST UNE PLATEFORME CLOUD QUI VOUS PERMET DE CRÉER, VALORISER ET MONÉTISER UNE COMMUNAUTÉ SUR LE WEB. </p>
+              						<p class="decouvrez-djiant">DJIANT IS A CLOUD PLATFORM THAT ALLOWS YOU TO CREATE, ENHANCE AND MONETIZE A COMMUNITY ON THE WEB. </p>
 	
               					</div>
               				</div>
               				<div class="row" style="margin-top: 100px;" >
               					<div class="djiant-col-md-3">
-              						<h4 style="  margin-bottom: 0px;" >COMMENT ÇA MARCHE ?</h4>
-              						<p class="djiant-block">En matière de gestion de communautés professionnelles, Djiant change les règles. Voici comment en quatre points. </p>
+              						<h4 style="  margin-bottom: 0px;" >HOW DOES IT WORK?</h4>
+              						<p class="djiant-block">When it comes to managing professional communities, Djiant changes the rules. Here's how in four points. </p>
               						
               					</div>
               				</div>
@@ -34,9 +34,9 @@
 									<img src="assets/image/Votre-communaute.svg" width="55px">
 								</div>
               					<div class="djiant-col-md-2" style=" margin-left:15px; margin-right: 30px; " >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Votre communauté « clés en main »</h4>
-              						<p class="djiant-block">Economisez vos ressources, Djiant gère tous les aspects de votre communauté : plateforme,référentiels d’entreprises, promotion, prospection. </p>
-              						<p style=" color: #008DD2; margin-top: 0px;" >En savoir plus...</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Your turnkey community</h4>
+              						<p class="djiant-block">Save your resources, Djiant manages all aspects of your community: platform, business repositories, promotion, and prospection. </p>
+              						<p style=" color: #008DD2; margin-top: 0px;" >Learn more...</p>
               					</div>
               					<div class="djiant-col-md-1">
 									<img src="assets/image/Plus-forts.svg"  alt="" width="55px">
