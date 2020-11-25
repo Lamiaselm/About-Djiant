@@ -42,9 +42,9 @@
 									<img src="assets/image/Plus-forts.svg"  alt="" width="55px">
 								</div>
               					<div class="djiant-col-md-2" style=" margin-left:15px; margin-right: 30px; " >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Plus forts. Ensemble.</h4>
-              						<p class="djiant-block">L’union fait la force. Votre communauté est connectée à d’autres communautés pour bénéficier de puissants effets réseaux.</p>
-              						<p style=" color: #008DD2; margin-top: 0px;" >En savoir plus...</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Together, Stronger. </h4>
+              						<p class="djiant-block">There’s strength in numbers. Your community is connected to other communities to benefit from powerful network effects.</p>
+              						<p style=" color: #008DD2; margin-top: 0px;" >Learn more...</p>
               					</div>
               				</div>
               				<div class="row" style="margin-top: 70px;" >
@@ -52,17 +52,17 @@
 									<img src="assets/image/Revenez-au-centre.svg"  alt="" width="55px">
 								</div>
               					<div class="djiant-col-md-2" style=" margin-left:15px; margin-right: 30px; " >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Revenez au centre</h4>
-              						<p class="djiant-block">Proposez aux entreprises et professionnels de votre communauté toute une palette de services web.</p>
-              						<p style=" color: #008DD2; margin-top: 0px;" >En savoir plus...</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Return to the center</h4>
+              						<p class="djiant-block">Offer to companies and professionals in your community a whole range of web services.</p>
+              						<p style=" color: #008DD2; margin-top: 0px;" >Learn more...</p>
               					</div>
               					<div class="djiant-col-md-1">
 									<img src="assets/image/60x60.png"  alt="" width="55px">
 								</div>
               					<div class="djiant-col-md-2" style=" margin-left:15px; margin-right: 30px; " >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Des stats inédites</h4>
-              						<p class="djiant-block">Affinez votre stratégie en recevant des statistiques inédites sur votre communauté</p>
-              						<p style=" color: #008DD2; margin-top: 0px;" >En savoir plus...</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Unpublished stats</h4>
+              						<p class="djiant-block">Refine your strategy by receiving unprecedented statistics on your community</p>
+              						<p style=" color: #008DD2; margin-top: 0px;" >Learn more...</p>
               					</div>
               				</div>
 							<div class="row" style="margin-top: 70px;" >
@@ -73,7 +73,7 @@
               				</div>
               				<div class="row" style="margin-top: 70px;" >
 								<div class="djiant-col-md-3">
-									<h4 style="  margin-bottom: 0px; margin-top: 0px;" >QUELS AVANTAGES ?</h4>
+									<h4 style="  margin-bottom: 0px; margin-top: 0px;" >WHAT ARE THE ADVANTAGES?</h4>
 								</div>
               					
               				</div>
@@ -82,16 +82,16 @@
 									<img src="assets/image/Operationnels-72H.svg"  alt="" width="55px">
 								</div>
               					<div class="djiant-col-md-2" style=" margin-left:15px; margin-right: 30px; " >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Opérationnel en 72h</h4>
-              						<p class="djiant-block">N’attendez pas des semaines voire des mois pour démarrer. Avec Djiant, votre communauté peut être mise en place en 24h, amorcée en données en 48h et visible sur le web en ligne en 72h.</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Operational in 72 hours</h4>
+              						<p class="djiant-block">Don't wait weeks or even months to get started. With Djiant, your community can be set up in 24 hours, started with data in 48 hours and visible online in 72 hours.</p>
               						
               					</div>
               					<div class="djiant-col-md-1">
 									<img src="assets/image/Economique.svg"  alt="" width="55px">
 								</div>
               					<div class="djiant-col-md-2" style=" margin-left:15px; margin-right: 30px; " >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Economique</h4>
-              						<p class="djiant-block">Industrialisation des process, mutualisation des ressources, effets réseaux... Tout est fait pour proposer des frais de mise en place et de fonctionnement accessibles à toutes les communautés.</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Economic</h4>
+              						<p class="djiant-block">Processes industrialization, resources pooling, network effects... Everything is done to propose accessible implementation and operating costs to all communities.</p>
               						
               					</div>
               				</div>
@@ -100,8 +100,8 @@
 									<img src="assets/image/Innovant.svg"  alt="" width="55px">
 								</div>
               					<div class="djiant-col-md-2" style=" margin-left:15px; margin-right: 30px; " >
-              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Innovant</h4>
-              						<p class="djiant-block">Une communauté BTOB c’est bien plus qu’une newsletter ou un blog. Découvrez les services innovants que vous pourrez proposer aux entreprises à court et moyen terme.</p>
+              						<h4 style="  margin-bottom: 0px; margin-top: 0px;" >Innovative</h4>
+              						<p class="djiant-block">A BTOB community is much more than a newsletter or a blog. Discover the innovative services that you can offer to companies in the short and medium term.</p>
               						
               					</div>
               					<div class="djiant-col-md-4">
@@ -111,7 +111,7 @@
               				</div>
               				<div class="row" style="margin-top: 70px;" >
 								<div class="djiant-col-md-3">
-									<h4 style="  margin-bottom: 0px; margin-top: 0px;" >QUELS BÉNÉFICES ?</h4>
+									<h4 style="  margin-bottom: 0px; margin-top: 0px;" >WHAT ARE THE BENEFITS?</h4>
 								</div>
               					
               				</div>
