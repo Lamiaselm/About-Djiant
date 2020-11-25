@@ -7,7 +7,7 @@
 		<div class="page-logo">
 			<img id="djiant" style="margin-right: 6px; margin-top: 2px" src="assets/image/logo-djiant.svg" width="22px"> 
 
-			 <span  > <img  style="margin-right: 10px;" src="assets/image/IconePage.svg" width="22px">   La plateforme Djiant</span> 
+			 <span  > <img  style="margin-right: 10px;" src="assets/image/IconePage.svg" width="22px">   The platform Djiant  </span> 
 			 
 			<div class="menu-toggler sidebar-toggler hide">
 			</div>
@@ -27,7 +27,7 @@
 								<ul class="nav nav-tabs pull-right">
 									<li >
 										<a href="#" >
-										A propos </a>
+										About us </a>
 									</li>
 									<li>
 										<a href="#" >
@@ -52,7 +52,7 @@
 								<ul class="nav nav-tabs ">
 									<li class="active ">
 										<a id="tab_1" data-toggle="tab">
-										<h4 style="margin:0px;">Vue d’ensemble</h4> </a>
+										<h4 style="margin:0px;">Overview</h4> </a>
 									</li>
 									<li>
 										<a id="tab_2" data-toggle="tab">
@@ -60,19 +60,19 @@
 									</li>
 									<li >
 										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Réseaux</h4>	 </a>
+									<h4 style="margin:0px;" >Networks</h4>	 </a>
 									</li>
 									<li >
 										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Fonctionnalités</h4>	 </a>
+									<h4 style="margin:0px;" >Features</h4>	 </a>
 									</li>
 									<li >
 										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Analytique</h4>	 </a>
+									<h4 style="margin:0px;" >Analytics</h4>	 </a>
 									</li>
 									<li >
 										<a id="tab_3" data-toggle="tab">
-									<h4 style="margin:0px;" >Tarifs & Reversements</h4>	 </a>
+									<h4 style="margin:0px;" >Rates & Payments</h4>	 </a>
 									</li>
 								</ul>
 								
