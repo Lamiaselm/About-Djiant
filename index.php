@@ -5,6 +5,19 @@
 	<!-- BEGIN CONTENT -->
 	<div class="page-content-wrapper" >
 		<div class="page-content">
+		<div class="portlet light portlet-light" id="tab_1_content" >
+			<div class="portlet-body  " style="padding-left:70px; padding-bottom: 200px;">
+			<div class="row">
+				<div class="djiant-col-md-5" style="margin-right:50px;margin-top:100px;"> 
+				<h4 class="djiant-title">MISSION</h4>	
+				<p class="decouvrez-djiant">DJIANT IS A CLOUD PLATFORM THAT ALLOWS YOU TO CREATE, ENHANCE AND MONETIZE A COMMUNITY ON THE WEB. </p>
+				</div>
+				<div class="djiant-col-md-6">
+				<img src="assets/image/image.png" alt="discover" style="width:500px;" >
+				</div>
+			</div>
+</div>
+</div>
 			<!-- BEGIN DASHBOARD  -->
 
 				<div id="notification" >
