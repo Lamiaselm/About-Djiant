@@ -16,6 +16,26 @@
 				<img src="assets/image/image.png" alt="discover" style="width:500px;" >
 				</div>
 			</div>
+			<div class="row">
+			<h4 style="margin-bottom:30px;">Vision</h4>
+			<div class="djiant-col-md-3"style="padding-left:0px;">
+			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;" >
+			<h5>Why Djiant?</h5>
+			<p>some text here</p>
+			</div>
+			<div class="djiant-col-md-3">
+			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;" >
+			<h5>Why Djiant?</h5>
+			<p>some text here</p>
+			</div>
+			<div class="djiant-col-md-3">
+			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;" >
+			<h5>Why Djiant?</h5>
+			<p>some text here</p>
+			</div>
+			</div>
+</div>
+</div>
 </div>
 </div>
 			<!-- BEGIN DASHBOARD  -->
