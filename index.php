@@ -17,14 +17,33 @@
 				</div>
 			</div>
 			<div class="row">
-			<h4 style="margin-bottom:30px;">Vision</h4>
+			<h4 style="margin-bottom:30px;">VISION</h4>
 			<div class="djiant-col-md-3"style="padding-left:0px;">
 			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;" >
 			<h5>Why Djiant?</h5>
 			<p>some text here</p>
 			</div>
 			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;" >
+			<img src="assets/image/icon 2.png" alt="discover" style="width:40px;" >
+			<h5>Why Djiant?</h5>
+			<p>some text here</p>
+			</div>
+			<div class="djiant-col-md-3">
+			<img src="assets/image/icon 3.png" alt="discover" style="width:40px;" >
+			<h5>Why Djiant?</h5>
+			<p>some text here</p>
+			</div>
+			</div>
+
+			<div class="row" style="margin-top:50px;">
+			<h4 style="margin-bottom:30px;">VALEUR</h4>
+			<div class="djiant-col-md-3"style="padding-left:0px;">
+			<img src="assets/image/icon 4.png" alt="discover" style="width:40px;" >
+			<h5>Why Djiant?</h5>
+			<p>some text here</p>
+			</div>
+			<div class="djiant-col-md-3">
+			<img src="assets/image/icon 5.png" alt="discover" style="width:40px;" >
 			<h5>Why Djiant?</h5>
 			<p>some text here</p>
 			</div>
