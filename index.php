@@ -11,7 +11,7 @@
 			<div class="row">
 				<div class="djiant-col-md-5" style="margin-right:50px;margin-top:100px;"> 
 				<h4 class="djiant-title">MISSION</h4>	
-				<p class="decouvrez-djiant">DJIANT IS A CLOUD PLATFORM THAT ALLOWS YOU TO CREATE, ENHANCE AND MONETIZE A COMMUNITY ON THE WEB. </p>
+				<p class="decouvrez-djiant">DJIANT'S MISSION IS TO HELP COMMUNITY LEADERS NETWORK TOGETHER TO DELIVER CONTENT AND AUDIENCES ON A LARGE SCALE AND GET BACK TO THE FOREFRONT. </p>
 				</div>
 				<div class="djiant-col-md-6">
 				<img src="assets/image/image.png" alt="discover" style="width:500px;" >
@@ -19,39 +19,39 @@
 			</div>
 			<div class="row">
 			<h4 style="margin-bottom:30px;">VISION</h4>
-			<div class="djiant-col-md-3"style="padding-left:0px;">
+			<div class="djiant-col-md-3"style="padding-left:0px;margin-right:20px;">
 			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<p>Chambers of commerce, sectorial associations, specialized press, regional press... Community leaders certainly represent more than 90% of the "useful" web content but probably less than 10% of the revenues.The explanation lies in one word: dispersion. Dispersion at proﬁt of large centralized platforms.</p>
 			</div>
-			<div class="djiant-col-md-3">
+			<div class="djiant-col-md-3"style="margin-right:20px;">
 			<img src="assets/image/icon 2.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<h5>The unsuspected power of supracommunities</h5>
+			<p> There are huge communities of latent communities on the web, "supracommunities" that are eager to express themselves and deploy a new generation of content and connected audiences across the web</p>
 			</div>
-			<div class="djiant-col-md-3">
+			<div class="djiant-col-md-3"style="margin-right:20px;">
 			<img src="assets/image/icon 3.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<h5>Towards a shared and common platform</h5>
+			<p>Pooling resources (research & development, infrastructure, enterprise repositories, call center...) and connecting communities, content and audiences in a network. Spend less and earn more: this is Djiant's proposal to community leaders.</p>
 			</div>
 			</div>
 
 			<div class="row" style="margin-top:50px;">
 			<h4 style="margin-bottom:30px;">VALEUR</h4>
-			<div class="djiant-col-md-3"style="padding-left:0px;">
+			<div class="djiant-col-md-3"style="padding-left:0px;margin-right:20px;">
 			<img src="assets/image/icon 4.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<h5>Excellence</h5>
+			<p>Passionate about the efficiency of its daily work habits, Djiant aims for excellence thanks to the determination of its diverse team.</p>
 			</div>
-			<div class="djiant-col-md-3">
+			<div class="djiant-col-md-3"style="margin-right:20px;">
 			<img src="assets/image/icon 5.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<h5>Sharing  </h5>
+			<p>Through teamwork and inclusion, Djiant  creates  the sense of belonging by serving its community.  We aim to add a significant value to the international professional community.</p>
 			</div>
-			<div class="djiant-col-md-3">
+			<div class="djiant-col-md-3"style="margin-right:20px;">
 			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<h5>Respect</h5>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation cillum dolore eu fugiat nulla pariatur.</p>
 			</div>
 			</div>
       </div>
@@ -182,6 +182,7 @@
 
 		</div>
 	</div>
+	</div>
 	<!-- END CONTENT -->
 <div class="clearfix ">
 </div>
@@ -189,8 +190,8 @@
 <!-- BEGIN FOOTER -->
 <div class="page-footer">
 	<div class="page-footer-inner pull-right"style="margin-top:-8px;">
-	<button type="button" class="link-button" >A propos</button>
-		<span  class="tabbable-line "> <a href="#" class="menu-footer" >Legal Notice  </a> <a href="#" class="menu-footer" >Privacy Policy</a> <a href="#" class="menu-footer" >Privacy Policy</a>  </span>
+	<button type="button" class="link-button" >About</button>
+		<span  class="tabbable-line "> <a href="#" class="menu-footer" >Terms and Conditions   </a> <a href="#" class="menu-footer" >CGU CGV</a> <a href="#" class="menu-footer" >Contact</a>  </span>
        
 	</div>
 
