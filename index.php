@@ -29,7 +29,7 @@
 			<h5>The unsuspected power of supracommunities</h5>
 			<p> There are huge communities of latent communities on the web, "supracommunities" that are eager to express themselves and deploy a new generation of content and connected audiences across the web</p>
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3">
 			<img src="assets/image/icon 3.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>Towards a shared and common platform</h5>
 			<p>Pooling resources (research & development, infrastructure, enterprise repositories, call center...) and connecting communities, content and audiences in a network. Spend less and earn more: this is Djiant's proposal to community leaders.</p>
@@ -48,7 +48,7 @@
 			<h5>Sharing  </h5>
 			<p>Through teamwork and inclusion, Djiant  creates  the sense of belonging by serving its community.  We aim to add a significant value to the international professional community.</p>
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3">
 			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>Respect</h5>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation cillum dolore eu fugiat nulla pariatur.</p>
@@ -58,110 +58,127 @@
     </div>
 	       <div class="portlet light portlet-light" id="tab_2_content" >
 		   <div class="portlet-body  " style="padding-left:70px; padding-bottom: 200px;">
-           <h4 class="djiant-title" style="margin-top:100px;margin-bottom:100px;">ILS FONT DJIANT </h4>	
+           <h4 class="djiant-title" style="margin-top:100px;margin-bottom:100px;">THEY MAKE DJIANT </h4>	
 		   <h5>OUR BOARD</h5>
-		   <p>They brought money at the beginning... and now advices and network.</p>
+		   <p>They brought money in the beginning... and now advice and a network.</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+		   <div class="djiant-col-md-3" style="margin-right:20px;">
+			<img src="assets/image/fischer.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Georges FISCHER </h5>
+			<h5 style="font-style: italic;">Chairman of Djiant </h5>
+			<p>Former Director of the Digital Cluster of the Paris Chamber of Commerce, President of the World Chambers network, Georges brings to Djiant his knowledge and his network in the world of CCIs and communities.</p>
+			</div>
+			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/lescano.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>José LESCANO</h5>
+			<h5 style="font-style: italic;">Infrastructure </h5>
+			<p>Investor and entrepreneur with nearly 30 years of experience in infrastructure issues, José accompanies Djiant in its ambition and strategy of deployment on the web.</p>
+			</div>
+			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Board MEMBER</h5>
+			<h5 style="font-style: italic;">New medias & Adtech  </h5>
+			<p>Our board is incomplete without an expert on web media. If you or someone in your network fits this profile, we'd be happy to talk about it.	</p>
 			</div>
 			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
-			</div>
-			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
-			</div>
-			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Board MEMBER</h5>
+			<h5 style="font-style: italic;">US market </h5>
+			<p>Do you have extensive experience and a vast network of contacts in the US start-up ecosystem? We would be delighted to convince you to join our Board. Please do not hesitate to contact us.</p>
 			</div>
         </div>
 		   
 
 		   
 		   <h5 style="margin-top:60px;">EXECUTIVE TEAM</h5>
-		   <p>They brought money at the beginning... and now advices and network.</p>
+		   <p>They execute Djiant’s vision.</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+		   <div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/balmisse.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Gilles BALMISSE</h5>
+			<h5 style="font-style: italic;">Chief Innovation officer</h5>
+			<p>Expert in Knowledge Management with numerous projects and works to his credit,Gilles is in charge of Innovation and advanced projects at Djiant.</p>
+			</div>
+			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/bouheraoua.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Ma’amar BOUHERAOUA</h5>
+			<h5 style="font-style: italic;">Chief Executive officer</h5>
+			<p>Initiator of the Djiant project, promoter of a decentralized approach to Search and Social Networks for the benefit of specialized publishers, Ma'amar is the guarantor of the company's vision and strategy.</p>
+			</div>
+			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/douy.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Christophe DOUY</h5>
+			<h5 style="font-style: italic;">Chief Technology Officer</h5>
+			<p>Passionate about the potential of web technologies, Christophe relies on his 30 years of experience in project management and IT teams to build the Djiant platform.</p>
 			</div>
 			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
-			</div>
-			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
-			</div>
-			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Our CSO</h5>
+			<h5 style="font-style: italic;">We are looking for her/him </h5>
+			<p>Create a global brand and build an ecosystem of business and technology partners.In a few words, this is the challenge proposed to the future boss of the marketing and sales at Djiant.Does this challenge appeal to you?Let's get to know each other.</p>
 			</div>
         </div>
 		   
 
 		   <h5 style="margin-top:60px;">DATA TEAM</h5>
-		   <p>They brought money at the beginning... and now advices and network.</p>
+		   <p>They build the global Businesses Database, at the heart of Djiant PlaVorm</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+		   <div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/esther.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Esther SOUNDARI</h5>
+			<h5 style="font-style: italic;">Data Scientist</h5>
+			<p>A mathematician of formation, Esther is in charge of designing and developing the advanced algorithms of Machine Learning and AI at Djiant.	</p>
 			</div>
 			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<img src="assets/image/josuah.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Josiah RADHAKRISHNAN</h5>
+			<h5 style="font-style: italic;">VP Ingénierie des données</h5>
+			<p>Josiah is a computer engineer who has become an expert in Data Marketing. He leads the team in charge of building and running the central warehouse in Djiant.</p>
 			</div>
         </div>
 
 			<h5 style="margin-top:60px;">OPERATION TEAM</h5>
-		   <p>They brought money at the beginning... and now advices and network.</p>
+		   <p>Between Pondichery in India, Algiers and Tunis, they turn our vision into reality</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
+		   <div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/sabrine.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Sabrine BOUKHORSSA</h5>
+			<h5 style="font-style: italic;">VP Network</h5>
+			<p>Business school graduate, polyglot, passionate about the web business model, Sabrine is in charge of planning the deployment of Djiant networks in Europe and around the world.</p>
+			</div>
+			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/Badr.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Badreddine FELLAGUE</h5>
+			<h5 style="font-style: italic;">VP Ingénierie des données</h5>
 			<p>some text here</p>
 			</div>
 			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<img src="assets/image/meryem.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Meryem ABDELLI</h5>
+			<h5 style="font-style: italic;">VP Digital Marketing</h5>
+			<p>Freshly graduated from business school, perfectly trilingual and at ease with social networks, Meryem quickly made her mark in Djiant's digital strategy.</p>
 			</div>
 			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<img src="assets/image/ahmed.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Ahmed TURKI</h5>
+			<h5 style="font-style: italic;">Tunisia Country Manager</h5>
+			<p>Trained in international business, web entrepreneur at heart, Ahmed joined Djiant to manage the deployment in Africa and the Middle East.</p>
 			</div>
-			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
-			</div>
+
         </div>
 
 			<div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+		   <div class="djiant-col-md-3"style="margin-right:20px;">
+			<img src="assets/image/ebi.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Ebi RADHAKRISHNAN</h5>
+			<h5 style="font-style: italic;">India Country Manager</h5>
+			<p>A Telecom Engineer at the beginning of his career, Ebi was attracted by the immense potential of the web and chose to evolve towards Business Development. He is in charge of deploying Djiant on the Indian market.</p>
 			</div>
 			<div class="djiant-col-md-3">
-			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
-			<h5>Why Djiant?</h5>
-			<p>some text here</p>
+			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
+			<h5>Join US</h5>
+			<h5 style="font-style: italic;">Jobs at Djiant</h5>
+			<p>Djiant is a fast-growing start-up that aims to become a key player in its field market. Job opportunities are numerous in IT, marketing, content, sales... Do you have a taste for challenge and teamwork?Join us.</p>
             </div>
             </div>
 
