@@ -259,6 +259,11 @@
 
 
 <script>
+window.scroll({
+ top: 0, 
+ left: 0, 
+ behavior: 'smooth' 
+});
     $(document).on("click",".contact-us",function(){
     $('.popupInfo').show();
 
@@ -271,11 +276,23 @@
 });
 
     $(document).on("click","#tab_1",function(){
+		window.scrollTo(0, 0);
+        window.scroll({
+        top: 0, 
+        left: 0, 
+        behavior: 'smooth' 
+        });
     $(".portlet-light").hide();
 	$('#tab_1_content').show();
     
 });
     $(document).on("click","#tab_2",function(){
+		window.scrollTo(0, 0);
+        window.scroll({
+        top: 0, 
+        left: 0, 
+        behavior: 'smooth' 
+        });
     $(".portlet-light").hide();
 	$('#tab_2_content').show();
     

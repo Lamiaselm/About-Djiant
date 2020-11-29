@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .link-button{
   background-color: #fafafa ;
   padding: 5px 15px 5px 15px;

@@ -37,7 +37,7 @@
 <div class="page-header -i navbar navbar-fixed-top" id="navbar-fixed-top" style="margin-top: 40px;">
 	<!-- BEGIN HEADER INNER -->
 	<div class="page-header-inner">
-<div class="tabbable-line " style="    padding-left: 41px;">
+<div class="tabbable-line " id="tab" style="    padding-left: 41px;">
 							
 								<ul class="nav nav-tabs ">
 									<li class="active ">
@@ -72,22 +72,4 @@
 <div class="page-container"  >
 	<!-- BEGIN SIDEBAR -->
 	<!-- END SIDEBAR -->
-	<script>
-	$(document).ready(function() {
 
-var $tabs = $("#tabbable-line").tabs();
-
-var changeTab = function(ev){
-
-  ev.preventDefault();
-
-  var tabIndex = this.hash.charAt(this.hash.length-1) -1;
-
-  $tabs.tabs('select', tabIndex);
-
-  $('html,body').scrollTop(0);  // Scroll to top
- };
-
-$('a.tablink').click(changeTab);
-
-});</script>
