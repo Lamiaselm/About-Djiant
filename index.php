@@ -5,7 +5,7 @@
 		<!-- BEGIN CONTENT -->
 		<div class="page-content-wrapper"  >
 		<div class="page-content">
-		<div class="portlet light portlet-light" id="tab_1_content" >
+		<div class="portlet light portlet-light" id="tab_1_content" style="padding-top:0px; "  >
             <div class="portlet-body  " style="padding-left:80px; padding-bottom: 200px;">
                 
 			<div class="row">
@@ -19,12 +19,12 @@
 			</div>
 			<div class="row">
 			<h4 style="margin-bottom:30px;">VISION</h4>
-			<div class="djiant-col-md-3"style="padding-left:0px;margin-right:20px;">
+			<div class="djiant-col-md-3"style="padding-left:0px;margin-right:30px;">
 			<img src="assets/image/icon 1.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>Why Djiant?</h5>
 			<p>Chambers of commerce, sectorial associations, specialized press, regional press... Community leaders certainly represent more than 90% of the "useful" web content but probably less than 10% of the revenues.The explanation lies in one word: dispersion. Dispersion at proﬁt of large centralized platforms.</p>
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/icon 2.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>The unsuspected power of supracommunities</h5>
 			<p> There are huge communities of latent communities on the web, "supracommunities" that are eager to express themselves and deploy a new generation of content and connected audiences across the web</p>
@@ -38,12 +38,12 @@
 
 			<div class="row" style="margin-top:50px;">
 			<h4 style="margin-bottom:30px;">VALEUR</h4>
-			<div class="djiant-col-md-3"style="padding-left:0px;margin-right:20px;">
+			<div class="djiant-col-md-3"style="padding-left:0px;margin-right:30px;">
 			<img src="assets/image/icon 4.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>Excellence</h5>
 			<p>Passionate about the efficiency of its daily work habits, Djiant aims for excellence thanks to the determination of its diverse team.</p>
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/icon 5.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>Sharing  </h5>
 			<p>Through teamwork and inclusion, Djiant  creates  the sense of belonging by serving its community.  We aim to add a significant value to the international professional community.</p>
@@ -57,26 +57,26 @@
       </div>
     </div>
 	       <div class="portlet light portlet-light" id="tab_2_content" >
-		   <div class="portlet-body  " style="padding-left:80px; padding-bottom: 200px;">
-           <h4 class="djiant-title" style="margin-top:100px;margin-bottom:100px;">THEY MAKE DJIANT </h4>	
+		   <div class="portlet-body  " style="padding-left:80px; padding-bottom: 200px;margin-left:-15px;">
+           <h4 class="djiant-title" style="margin-top:50px;margin-bottom:100px;">THEY MAKE DJIANT </h4>	
 		   <h5>OUR BOARD</h5>
 		   <p>They brought money in the beginning... and now advice and a network.</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3" style="margin-right:20px;">
+		   <div class="djiant-col-md-3" style="margin-right:30px;padding-left:15px;">
 			<img src="assets/image/fischer.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Georges FISCHER </h5>
 			<h5 style="font-style: italic;">Chairman of Djiant </h5>
 			<p>Former Director of the Digital Cluster of the Paris Chamber of Commerce, President of the World Chambers network, Georges brings to Djiant his knowledge and his network in the world of CCIs and communities.</p>
 			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/lescano.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>José LESCANO</h5>
 			<h5 style="font-style: italic;">Infrastructure </h5>
 			<p>Investor and entrepreneur with nearly 30 years of experience in infrastructure issues, José accompanies Djiant in its ambition and strategy of deployment on the web.</p>
 			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Board MEMBER</h5>
 			<h5 style="font-style: italic;">New medias & Adtech  </h5>
@@ -97,21 +97,21 @@
 		   <h5 style="margin-top:60px;">EXECUTIVE TEAM</h5>
 		   <p>They execute Djiant’s vision.</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3"style="margin-right:20px;">
+		   <div class="djiant-col-md-3"style="margin-right:30px;padding-left:15px;">
 			<img src="assets/image/balmisse.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Gilles BALMISSE</h5>
 			<h5 style="font-style: italic;">Chief Innovation officer</h5>
 			<p>Expert in Knowledge Management with numerous projects and works to his credit,Gilles is in charge of Innovation and advanced projects at Djiant.</p>
 			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/bouheraoua.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Ma’amar BOUHERAOUA</h5>
 			<h5 style="font-style: italic;">Chief Executive officer</h5>
 			<p>Initiator of the Djiant project, promoter of a decentralized approach to Search and Social Networks for the benefit of specialized publishers, Ma'amar is the guarantor of the company's vision and strategy.</p>
 			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/douy.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Christophe DOUY</h5>
 			<h5 style="font-style: italic;">Chief Technology Officer</h5>
@@ -129,9 +129,9 @@
 		   
 
 		   <h5 style="margin-top:60px;">DATA TEAM</h5>
-		   <p>They build the global Businesses Database, at the heart of Djiant PlaVorm</p>
+		   <p>They build the global Businesses Database, at the heart of Djiant Platform</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3"style="margin-right:20px;">
+		   <div class="djiant-col-md-3"style="margin-right:30px;padding-left:15px;">
 			<img src="assets/image/esther.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Esther SOUNDARI</h5>
 			<h5 style="font-style: italic;">Data Scientist</h5>
@@ -150,14 +150,14 @@
 			<h5 style="margin-top:60px;">OPERATION TEAM</h5>
 		   <p>Between Pondichery in India, Algiers and Tunis, they turn our vision into reality</p>
 		   <div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3"style="margin-right:20px;">
+		   <div class="djiant-col-md-3"style="margin-right:30px;padding-left:15px;">
 			<img src="assets/image/sabrine.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Sabrine BOUKHORSSA</h5>
 			<h5 style="font-style: italic;">VP Network</h5>
 			<p>Business school graduate, polyglot, passionate about the web business model, Sabrine is in charge of planning the deployment of Djiant networks in Europe and around the world.</p>
 			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
-			<div class="djiant-col-md-3"style="margin-right:20px;">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/Badr.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Badreddine FELLAGUE</h5>
 			<h5 style="font-style: italic;">VP Ingénierie des données</h5>
@@ -182,7 +182,7 @@
         </div>
 
 			<div class="row"style="margin-top:60px">
-		   <div class="djiant-col-md-3"style="margin-right:20px;">
+		   <div class="djiant-col-md-3"style="margin-right:30px;padding-left:15px;">
 			<img src="assets/image/ebi.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Ebi RADHAKRISHNAN</h5>
 			<h5 style="font-style: italic;">India Country Manager</h5>

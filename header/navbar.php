@@ -72,3 +72,22 @@
 <div class="page-container"  >
 	<!-- BEGIN SIDEBAR -->
 	<!-- END SIDEBAR -->
+	<script>
+	$(document).ready(function() {
+
+var $tabs = $("#tabbable-line").tabs();
+
+var changeTab = function(ev){
+
+  ev.preventDefault();
+
+  var tabIndex = this.hash.charAt(this.hash.length-1) -1;
+
+  $tabs.tabs('select', tabIndex);
+
+  $('html,body').scrollTop(0);  // Scroll to top
+ };
+
+$('a.tablink').click(changeTab);
+
+});</script>
