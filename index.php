@@ -51,7 +51,7 @@
 			<div class="djiant-col-md-3">
 			<img src="assets/image/icon 6.png" alt="discover" style="width:40px;margin-bottom:20px;" >
 			<h5>Respect</h5>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation cillum dolore eu fugiat nulla pariatur.</p>
+			<p>Djiant promotes respect for human beings, differences, work and investment of others, as well as respecting the environment, throughout all its activities.</p>
 			</div>
 			</div>
       </div>
@@ -67,28 +67,28 @@
 			<h5>Georges FISCHER </h5>
 			<h5 style="font-style: italic;">Chairman of Djiant </h5>
 			<p>Former Director of the Digital Cluster of the Paris Chamber of Commerce, President of the World Chambers network, Georges brings to Djiant his knowledge and his network in the world of CCIs and communities.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/georges-fischer-b2281a16/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/lescano.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>José LESCANO</h5>
 			<h5 style="font-style: italic;">Infrastructure </h5>
 			<p>Investor and entrepreneur with nearly 30 years of experience in infrastructure issues, José accompanies Djiant in its ambition and strategy of deployment on the web.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/joseluislescano/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Board MEMBER</h5>
 			<h5 style="font-style: italic;">New medias & Adtech  </h5>
 			<p>Our board is incomplete without an expert on web media. If you or someone in your network fits this profile, we'd be happy to talk about it.	</p>
-			<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://info.djiant.com/contact.php" target="_blank"><img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;"></a>
 			</div>
 			<div class="djiant-col-md-3">
 			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Board MEMBER</h5>
 			<h5 style="font-style: italic;">US market </h5>
 			<p>Do you have extensive experience and a vast network of contacts in the US start-up ecosystem? We would be delighted to convince you to join our Board. Please do not hesitate to contact us.</p>
-			<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://info.djiant.com/contact.php" target="_blank"><img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;"></a>
 			</div>
         </div>
 		   
@@ -102,28 +102,28 @@
 			<h5>Gilles BALMISSE</h5>
 			<h5 style="font-style: italic;">Chief Innovation officer</h5>
 			<p>Expert in Knowledge Management with numerous projects and works to his credit,Gilles is in charge of Innovation and advanced projects at Djiant.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/gillesbalmisse/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/bouheraoua.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Ma’amar BOUHERAOUA</h5>
 			<h5 style="font-style: italic;">Chief Executive officer</h5>
 			<p>Initiator of the Djiant project, promoter of a decentralized approach to Search and Social Networks for the benefit of specialized publishers, Ma'amar is the guarantor of the company's vision and strategy.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/ma-amar-bouheraoua-9325582/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/douy.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Christophe DOUY</h5>
 			<h5 style="font-style: italic;">Chief Technology Officer</h5>
 			<p>Passionate about the potential of web technologies, Christophe relies on his 30 years of experience in project management and IT teams to build the Djiant platform.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/christophedouy/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3">
 			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Our CSO</h5>
 			<h5 style="font-style: italic;">We are looking for her/him </h5>
 			<p>Create a global brand and build an ecosystem of business and technology partners.In a few words, this is the challenge proposed to the future boss of the marketing and sales at Djiant.Does this challenge appeal to you?Let's get to know each other.</p>
-			<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://info.djiant.com/contact.php" target="_blank"><img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;"></a>
 			</div>
         </div>
 		   
@@ -136,14 +136,14 @@
 			<h5>Esther SOUNDARI</h5>
 			<h5 style="font-style: italic;">Data Scientist</h5>
 			<p>A mathematician of formation, Esther is in charge of designing and developing the advanced algorithms of Machine Learning and AI at Djiant.	</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://info.djiant.com/contact.php" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3">
 			<img src="assets/image/josuah.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Josiah RADHAKRISHNAN</h5>
 			<h5 style="font-style: italic;">VP Ingénierie des données</h5>
 			<p>Josiah is a computer engineer who has become an expert in Data Marketing. He leads the team in charge of building and running the central warehouse in Djiant.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/josiah-radhakrishnan-5710ab85/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
         </div>
 
@@ -155,28 +155,28 @@
 			<h5>Sabrine BOUKHORSSA</h5>
 			<h5 style="font-style: italic;">VP Network</h5>
 			<p>Business school graduate, polyglot, passionate about the web business model, Sabrine is in charge of planning the deployment of Djiant networks in Europe and around the world.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/sabrina-boukhorssa-029026141/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/Badr.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Badreddine FELLAGUE</h5>
 			<h5 style="font-style: italic;">VP Ingénierie des données</h5>
 			<p>Computer engineer with more than 10 years of experience in web projects, Badreddine brings to Djiant his rigor and his mastery of agile methods to design the back-office tools of the Djiant platform.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href=" https://www.linkedin.com/in/badreddine-fellague-a38a93164/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
-			<div class="djiant-col-md-3">
+			<div class="djiant-col-md-3"style="margin-right:30px;">
 			<img src="assets/image/meryem.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Meryem ABDELLI</h5>
 			<h5 style="font-style: italic;">VP Digital Marketing</h5>
 			<p>Freshly graduated from business school, perfectly trilingual and at ease with social networks, Meryem quickly made her mark in Djiant's digital strategy.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/meryem-abdelli/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3">
 			<img src="assets/image/ahmed.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Ahmed TURKI</h5>
 			<h5 style="font-style: italic;">Tunisia Country Manager</h5>
-			<p>Trained in international business, web entrepreneur at heart, Ahmed joined Djiant to manage the deployment in Africa and the Middle East.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<p>Graduated in international business, web entrepreneur at heart, Ahmed joined Djiant to manage the deployment in Africa and the Middle East.</p>
+			<a href="https://www.linkedin.com/in/ahmed-turki-26806b12a/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 
         </div>
@@ -187,14 +187,14 @@
 			<h5>Ebi RADHAKRISHNAN</h5>
 			<h5 style="font-style: italic;">India Country Manager</h5>
 			<p>A Telecom Engineer at the beginning of his career, Ebi was attracted by the immense potential of the web and chose to evolve towards Business Development. He is in charge of deploying Djiant on the Indian market.</p>
-			<img src="assets/image/Icon LinkedIN.png" alt="linkedin" style="width:17px;margin-top:12px;">&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://www.linkedin.com/in/ebi-radhakrishnan-87053389/" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<a href="https://info.djiant.com/contact.php" target="_blank"><img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;"></a>
 			</div>
 			<div class="djiant-col-md-3">
 			<img src="assets/image/toHire.png" alt="discover" style="width:100px;margin-bottom:20px;" >
 			<h5>Join US</h5>
 			<h5 style="font-style: italic;">Jobs at Djiant</h5>
 			<p>Djiant is a fast-growing start-up that aims to become a key player in its field market. Job opportunities are numerous in IT, marketing, content, sales... Do you have a taste for challenge and teamwork?Join us.</p>
-			<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a href="https://info.djiant.com/contact.php" target="_blank"><img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;"></a>
             </div>
             </div>
 
@@ -223,8 +223,7 @@
 <!-- BEGIN FOOTER -->
 <div class="page-footer">
 	<div class="page-footer-inner pull-right"style="margin-top:-8px;">
-	<button type="button" class="link-button" >About</button>
-		<span  class="tabbable-line "> <a href="#" class="menu-footer" >Terms and Conditions   </a> <a href="#" class="menu-footer" >CGU CGV</a> <a href="#" class="menu-footer" >Contact</a>  </span>
+		<span  class="tabbable-line "><a href="#" class="menu-footer" >About  </a> <a href="#" class="menu-footer" >Contact  </a><a href="#" class="menu-footer" >GTU GTS </a><a href="#" class="menu-footer" >Privacy Policy   </a>   </span>
        
 	</div>
 

@@ -1,6 +1,16 @@
 html {
   scroll-behavior: smooth;
 }
+* {
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-family: 'Calibri Light',sans-serif;
+  font-size: 14px;
+  color: #383838;
+}
 .link-button{
   background-color: #fafafa ;
   padding: 5px 15px 5px 15px;
