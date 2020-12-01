@@ -35,7 +35,15 @@
 			<p>Pooling resources (research & development, infrastructure, enterprise repositories, call center...) and connecting communities, content and audiences in a network. Spend less and earn more: this is Djiant's proposal to community leaders.</p>
 			</div>
 			</div>
-
+			<div class="popupInfo " style="display: none;">
+ssqdqsds
+                                          </div>
+			<div class="djiant-col-md-3">
+					<div class="contact-us">
+                                     <img id="djiant" style="margin-right: 15px;filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(10);" src="assets/image/IconeContact.svg" width="22px"> 
+                                            Contact us
+                                   </div>
+				</div>
 			<div class="row" style="margin-top:50px;">
 			<h4 style="margin-bottom:30px;">VALEUR</h4>
 			<div class="djiant-col-md-3"style="padding-left:0px;margin-right:30px;">
@@ -92,7 +100,15 @@
 			</div>
         </div>
 		   
-
+		<div class="popupInfo " style="display: none;">
+ssqdqsds
+                                          </div>
+			<div class="djiant-col-md-3">
+					<div class="contact-us">
+                                     <img id="djiant" style="margin-right: 15px;filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(10);" src="assets/image/IconeContact.svg" width="22px"> 
+                                            Contact us
+                                   </div>
+				</div>
 		   
 		   <h5 style="margin-top:60px;">EXECUTIVE TEAM</h5>
 		   <p>They execute Djiant’s vision.</p>
@@ -223,7 +239,7 @@
 <!-- BEGIN FOOTER -->
 <div class="page-footer">
 	<div class="page-footer-inner pull-right"style="margin-top:-8px;">
-		<span  class="tabbable-line "><a href="#" class="menu-footer" >About  </a> <a href="#" class="menu-footer" >Contact  </a><a href="#" class="menu-footer" >GTU GTS </a><a href="#" class="menu-footer" >Privacy Policy   </a>   </span>
+		<span  class="tabbable-line "><a href="" class="menu-footer" >About  </a> <a href="#" class="menu-footer" >Contact  </a><a href="#" class="menu-footer" >GTU GTS </a><a href="#" class="menu-footer" >Privacy Policy   </a>   </span>
        
 	</div>
 
