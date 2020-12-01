@@ -155,7 +155,7 @@
 			<h5>Esther SOUNDARI</h5>
 			<h5 style="font-style: italic;">Data Scientist</h5>
 			<p>A mathematician of formation, Esther is in charge of designing and developing the advanced algorithms of Machine Learning and AI at Djiant.	</p>
-			<a href="https://info.djiant.com/contact.php" target="_blank"><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
+			<a ><img src="assets/image/Icon LinkedIN.png" alt="discover" style="width:17px;margin-top:12px;" ></a>&nbsp;&nbsp;<img src="assets/image/Icon Mail.png" alt="mail"style="width:17px;margin-top:12px;">
 			</div>
 			<div class="djiant-col-md-3">
 			<img src="assets/image/josuah.png" alt="discover" style="width:100px;margin-bottom:20px;" >
