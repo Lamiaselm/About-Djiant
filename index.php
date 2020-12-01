@@ -36,13 +36,15 @@
 			</div>
 			</div>
 			<div class="popupInfo " style="display: none;">
-ssqdqsds
+
                                           </div>
 			<div class="djiant-col-md-3">
-					<div class="contact-us">
-                                     <img id="djiant" style="margin-right: 15px;filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(10);" src="assets/image/IconeContact.svg" width="22px"> 
-                                            Contact us
+			<a href="https://info.djiant.com/contact.php" target="_blank">
+				<div class="contact-us">
+					  <img id="djiant" style="margin-right: 15px;filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(10);" src="assets/image/IconeContact.svg" width="22px">  
+					                                          Contact us  
                                    </div>
+								   </a> 
 				</div>
 			<div class="row" style="margin-top:50px;">
 			<h4 style="margin-bottom:30px;">VALEUR</h4>
@@ -101,13 +103,14 @@ ssqdqsds
         </div>
 		   
 		<div class="popupInfo " style="display: none;">
-ssqdqsds
+
                                           </div>
 			<div class="djiant-col-md-3">
-					<div class="contact-us">
-                                     <img id="djiant" style="margin-right: 15px;filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(10);" src="assets/image/IconeContact.svg" width="22px"> 
-                                            Contact us
-                                   </div>
+			<a href="https://info.djiant.com/contact.php" target="_blank"> 
+				<div class="contact-us">
+                                   <img id="djiant" style="margin-right: 15px;filter: invert(0) sepia(0) saturate(1) hue-rotate(0deg) brightness(10);" src="assets/image/IconeContact.svg" width="22px"> 
+                                            Contact us  
+                                   </div></a> 
 				</div>
 		   
 		   <h5 style="margin-top:60px;">EXECUTIVE TEAM</h5>
